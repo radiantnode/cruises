@@ -1,0 +1,285 @@
+[
+  {
+    "name": "7 Night Western Caribbean & Perfect Day",
+    "cruiseline": "Royal Caribbean",
+    "ship": "Harmony of the Seas",
+    "start_date": "2022-07-17",
+    "end_date": "2022-07-24",
+    "cabin": "12643",
+    "itinerary": [
+      {
+        "type": "port",
+        "date": "2022-07-17",
+        "name": "Port Canaveral, Florida"
+      },
+      {
+        "type": "port",
+        "date": "2022-07-18",
+        "name": "Perfect Day at CocoCay, Bahamas"
+      },
+      {
+        "type": "port",
+        "date": "2022-07-19",
+        "name": "Nassau, Bahamas"
+      },
+      {
+        "type": "cruising",
+        "date": "2022-07-20"
+      },
+      {
+        "type": "port",
+        "date": "2022-07-21",
+        "name": "Falmouth, Jamaica"
+      },
+      {
+        "type": "port",
+        "date": "2022-07-22",
+        "name": "Labadee, Haiti"
+      },
+      {
+        "type": "cruising",
+        "date": "2022-07-23"
+      },
+      {
+        "type": "port",
+        "date": "2022-07-24",
+        "name": "Port Canaveral, Florida"
+      }
+    ]
+  },
+  {
+    "name": "Caribbean - Western",
+    "cruiseline": "Carnival",
+    "ship": "Carnival Breeze",
+    "start_date": "2021-12-27",
+    "end_date": "2022-01-03",
+    "cabin": "9346",
+    "itinerary": [
+      {
+        "type": "port",
+        "date": "2021-12-27",
+        "name": "Galveston, Texas"
+      },
+      {
+        "type": "cruising",
+        "date": "2021-12-28"
+      },
+      {
+        "type": "port",
+        "date": "2021-12-29",
+        "name": "Cozumel, Mexico"
+      },
+      {
+        "type": "port",
+        "date": "2021-12-30",
+        "name": "Belize City, Belize"
+      },
+      {
+        "type": "port",
+        "date": "2021-12-31",
+        "name": "Roatan, Bay Islands, Honduras"
+      },
+      {
+        "type": "cruising",
+        "date": "2022-01-01"
+      },
+      {
+        "type": "cruising",
+        "date": "2022-01-02"
+      },
+      {
+        "type": "port",
+        "date": "2022-01-03",
+        "name": "Galveston, Texas"
+      }
+    ]
+  },
+  {
+    "name": "7 Night Eastern Caribbean Cruise",
+    "cruiseline": "Royal Caribbean",
+    "ship": "Symphony of the Seas",
+    "start_date": "2019-06-29",
+    "end_date": "2019-07-06",
+    "cabin": "8262",
+    "itinerary": [
+      {
+        "type": "port",
+        "date": "2019-06-29",
+        "name": "Miami, Florida"
+      },
+      {
+        "type": "cruising",
+        "date": "2019-06-30"
+      },
+      {
+        "type": "cruising",
+        "date": "2019-07-01"
+      },
+      {
+        "type": "port",
+        "date": "2019-07-02",
+        "name": "Saint Maarten (Phillipsburg), Netherlands Antilles"
+      },
+      {
+        "type": "port",
+        "date": "2019-07-03",
+        "name": "San Juan, Puerto Rico"
+      },
+      {
+        "type": "port",
+        "date": "2019-07-04",
+        "name": "Labadee, Haiti"
+      },
+      {
+        "type": "cruising",
+        "date": "2019-07-05"
+      },
+      {
+        "type": "port",
+        "date": "2019-07-06",
+        "name": "Miami, Florida"
+      }
+    ]
+  },
+  {
+    "name": "7 Night Eastern Caribbean Cruise",
+    "cruiseline": "Royal Caribbean",
+    "ship": "Harmony of the Seas",
+    "start_date": "2018-07-07",
+    "end_date": "2018-07-14",
+    "cabin": "10560",
+    "itinerary": [
+      {
+        "type": "port",
+        "date": "2018-07-07",
+        "name": "Fort Lauderdale, Florida"
+      },
+      {
+        "type": "port",
+        "date": "2018-07-08",
+        "name": "Nassau, Bahamas"
+      },
+      {
+        "type": "cruising",
+        "date": "2018-07-09"
+      },
+      {
+        "type": "port",
+        "date": "2018-07-10",
+        "name": "Saint Thomas, US Virgin Islands"
+      },
+      {
+        "type": "port",
+        "date": "2018-07-11",
+        "name": "Saint Kitts and Nevis (Basse Terre)"
+      },
+      {
+        "type": "cruising",
+        "date": "2018-07-12"
+      },
+      {
+        "type": "cruising",
+        "date": "2018-07-13"
+      },
+      {
+        "type": "port",
+        "date": "2018-07-14",
+        "name": "Fort Lauderdale, Florida"
+      }
+    ]
+  },
+  {
+    "name": "7 Night Western Caribbean Cruise",
+    "cruiseline": "Royal Caribbean",
+    "ship": "Liberty of the Seas",
+    "start_date": "2017-07-02",
+    "end_date": "2017-07-09",
+    "cabin": "8640",
+    "itinerary": [
+      {
+        "type": "port",
+        "date": "2017-07-02",
+        "name": "Galveston, Texas"
+      },
+      {
+        "type": "cruising",
+        "date": "2017-07-03"
+      },
+      {
+        "type": "port",
+        "date": "2017-07-04",
+        "name": "Cozumel, Mexico"
+      },
+      {
+        "type": "port",
+        "date": "2017-07-05",
+        "name": "Grand Cayman, Cayman Islands"
+      },
+      {
+        "type": "port",
+        "date": "2017-07-06",
+        "name": "Falmouth, Jamaica"
+      },
+      {
+        "type": "cruising",
+        "date": "2017-07-07"
+      },
+      {
+        "type": "cruising",
+        "date": "2017-07-08"
+      },
+      {
+        "type": "port",
+        "date": "2017-07-09",
+        "name": "Galveston, Texas"
+      }
+    ]
+  },
+  {
+    "name": "Caribbean - Western",
+    "cruiseline": "Carnival",
+    "ship": "Carnival Freedom",
+    "start_date": "2015-07-25",
+    "end_date": "2015-08-01",
+    "cabin": "6289",
+    "itinerary": [
+      {
+        "type": "port",
+        "date": "2015-07-25",
+        "name": "Galveston, Texas"
+      },
+      {
+        "type": "cruising",
+        "date": "2015-07-26"
+      },
+      {
+        "type": "cruising",
+        "date": "2015-07-27"
+      },
+      {
+        "type": "port",
+        "date": "2015-07-28",
+        "name": "Roatan, Bay Islands, Honduras"
+      },
+      {
+        "type": "port",
+        "date": "2015-07-29",
+        "name": "Belize City, Belize"
+      },
+      {
+        "type": "port",
+        "date": "2015-07-30",
+        "name": "Cozumel, Mexico"
+      },
+      {
+        "type": "cruising",
+        "date": "2015-07-31"
+      },
+      {
+        "type": "port",
+        "date": "2015-08-01",
+        "name": "Galveston, Texas"
+      }
+    ]
+  }
+]
