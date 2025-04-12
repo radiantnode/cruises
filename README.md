@@ -2,6 +2,7 @@
 
 | Cruise                                                                          | Line            | Ship                 | Dates                               |
 | :------------------------------------------------------------------------------ | :-------------- | :------------------- | :---------------------------------- |
+| [7 Night Eastern Caribbean & Perfect Day](itineraries/03-16-2025_03-23-2025.md) | Royal Caribbean | Symphony of the Seas | March 16, 2025 - March 23, 2025     |
 | [8 Night Western Caribbean & Perfect Day](itineraries/07-20-2024_07-28-2024.md) | Royal Caribbean | Harmony of the Seas  | July 20, 2024 — July 28, 2024       |
 | [7 Night Alaska Glacier Cruise](itineraries/06-05-2023_06-12-2023.md)           | Royal Caribbean | Quantum of the Seas  | June 5, 2023 - June 12, 2023        |
 | [7 Night Western Caribbean](itineraries/03-04-2023_03-11-2023.md)               | Carnival        | Carnival Vista       | March 4, 2023 - March 11, 2023      |
